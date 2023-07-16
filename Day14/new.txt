@@ -1,0 +1,3 @@
+
+Hi this is new file.
+I am appending in this file using the .write file handling code.
